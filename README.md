@@ -52,7 +52,7 @@ npm install
 ```
 
 3. 配置环境变量
-更改 `config.js` 文件并配置以下参数：
+更改 `config_temp.js`改为`config.js` 文件并配置以下参数：
 ```
 apiKeys: [],
 ownerAddress: '', // 被签名地址

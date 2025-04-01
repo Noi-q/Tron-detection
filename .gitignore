@@ -1,11 +1,4 @@
 data
 logs
 node_modules
-public
-services
-utils
 config.js
-index.js
-package.json
-package-lock.json
-README.md
